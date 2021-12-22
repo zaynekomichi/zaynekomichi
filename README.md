@@ -1,12 +1,15 @@
 <div color="black">
   <img src="header.svg" width="800" height="400">
   <h2>Projects</h2>
-  https://github.com/zaynekomichi/Google-Cloud-Console - Google cloud console desktop app
-  https://github.com/zaynekomichi/Intake-Stock - Stock Inventory app with barcode and qr code scanner mobile
-  https://github.com/zaynekomichi/FastDebug-Js - Debugging tool
-  https://github.com/zaynekomichi/Aurora - Aurora HMS system
-  https://github.com/zaynekomichi/NoZesa - Electricity Updates
-  
+  https://github.com/zaynekomichi/Google-Cloud-Console - Google cloud console desktop app <br>
+  https://github.com/zaynekomichi/Intake-Stock - Stock Inventory app with barcode and qr code scanner mobile<br>
+  https://github.com/zaynekomichi/FastDebug-Js - Debugging tool<br>
+  https://github.com/zaynekomichi/Aurora - Aurora HMS system<br>
+  https://github.com/zaynekomichi/NoZesa - Electricity Updates<br>
+  <br>
+  <br>
+  <br>
+  <br>
   
   <div>
   <p><b>Hospital Managemnt System</b> </p>
