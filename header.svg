@@ -1,0 +1,118 @@
+<svg fill="none" viewBox="0 0 800 400" width="100vw" height="100vh"  xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				#body{
+					background-color: black;
+					font-family: Rubik,sans-serif;
+					color:white;
+					padding: 20px;
+					overflow: auto;
+				}
+
+				#Header{
+					text-align: center;
+				}
+				.GlitchText{
+				background: -webkit-linear-gradient(purple, darkturquoise);
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				filter: drop-shadow(1px 1px red);
+				  animation-name: glitch; 
+				  animation-duration: 4s;
+				  animation-iteration-count:infinite;
+			  
+			  }
+			  
+			  .GlitchText:hover{
+				  transition: ease-in;
+				  transform: scale(1.02);
+				  text-decoration: underline;
+			  }
+			  
+			  @keyframes glitch{
+				  0%{ 
+					  
+					  background: -webkit-linear-gradient(purple, darkturquoise);
+						-webkit-background-clip: text;
+						-webkit-text-fill-color: transparent;
+						filter: drop-shadow(1px 1px red);
+				  }
+				  20%{
+					  
+					  background: -webkit-linear-gradient(blue, purple);
+					  -webkit-background-clip: text;
+					  -webkit-text-fill-color: transparent;
+					  filter: drop-shadow(1px 1px darkturquoise);
+				  }
+				  40%{
+					  
+					  background: -webkit-linear-gradient(red, blue);
+					  -webkit-background-clip: text;
+					  -webkit-text-fill-color: transparent;
+					  filter: drop-shadow(1px 1px purple);
+				  }
+				  60%{
+					  
+					  background: -webkit-linear-gradient(purple, darkturquoise);
+					  -webkit-background-clip: text;
+					  -webkit-text-fill-color: transparent;
+					  filter: drop-shadow(1px 1px red);
+				  }
+				  80%{
+					  
+					  background: -webkit-linear-gradient(purple, blue);
+					  -webkit-background-clip: text;
+					  -webkit-text-fill-color: transparent;
+					  filter: drop-shadow(1px 1px red);
+				  }
+				  100%{
+					  
+					  background: -webkit-linear-gradient(red, blue);
+					  -webkit-background-clip: text;
+					  -webkit-text-fill-color: transparent;
+					  filter: drop-shadow(1px 1px blue);
+				  }
+			  }
+
+			  #About{
+				  display: flex;
+				  flex-direction: row;
+			  }
+
+			  #About img{
+				  width:250px;
+				  height: 200px;
+			  }
+
+			  #BasicGrid{
+				  display: grid;
+				  grid-template-rows: 200px 200px 200px 200px;
+				  grid-template-columns: 300px 300px 300px 300px;
+			  }
+
+			  .grid img{
+				  width: 100px;
+				  height: 100px;
+			  }
+			</style>
+			<div id="body">
+				<div id="Header">
+					<h1 class="GlitchText">Synaptics</h1>
+					<p class="GlitchText">Inspired Code</p>
+				</div>
+				<div id="About">
+					<div>
+						<p>Hello, Zayne over here, glad you could join me today.Right place to be if you want something done
+							in a proffesional fun way, two words that should be mixed but aren't
+						 .Find all my work below. Im looking for someone to help me with the projects in here,
+						feel free to contribute and if you love,liked or adored my work just buy me a coffee here <a href="">Zaynes Coffee</a></p>
+					</div>
+					<div>
+						<img src="eatsleepcode.jpg" alt=""/> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
