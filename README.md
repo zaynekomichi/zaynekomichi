@@ -17,7 +17,7 @@ Any stack you use i can also but here's a few im quite proficient in
 
 #### 🕶History
 
-Well i just woke up and decided to code, using youtube's vast amount of code videos and codecademy i quickly realized i had made a mistake. This was by far the hardest thing i had ever done but the satisfaction i got from knowing i created something kept me going
+Woke up grabbed a coffee and java killed me.
 
 
 #### Projects I'm working / collaborating on 💻
