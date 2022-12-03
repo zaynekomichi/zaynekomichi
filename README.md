@@ -2,7 +2,7 @@
 
 #### Who am i
 
-Im an explorer, love collaborating on projects, gaming/anime addict. Thats all there is.
+Im an explorer, love collaborating on projects. Thats all there is.
 
 #### Languages/Frame works
 
