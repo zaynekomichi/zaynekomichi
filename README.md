@@ -29,6 +29,7 @@ Woke up grabbed a coffee and java killed me.
     Social media app for web3  
   * [Google console, Desktop App](https://github.com/zaynekomichi/Google-Cloud-Console) > No need to use your browser anymore to manage your cloud services with google,       now on desktop  
   * [Stock Inventory app with barcode and qr code scanner mobile](https://github.com/zaynekomichi/Intake-Stock) > For small business without computers, backup data online  
+  * [Code for charity Youtube extension](https://github.com/code-charity/youtube)  >Customize youtube
   * [Debugging tool](https://github.com/zaynekomichi/FastDebug-Js) > Easy to use debugging tools works well with json data  
 
  
