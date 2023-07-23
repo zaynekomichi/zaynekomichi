@@ -8,7 +8,7 @@ Im an explorer, love collaborating on projects. Thats all there is.
 
 Any stack you use i can also but here's a few im quite proficient in
 
-* Mongo/ Couchdb /SQL 💾
+* Mongo/ Couchdb / SQL / Firebase 💾
 * Typescript/Javascript 🌞
 * Tauri / Electron 💻
 * Python 🐍
