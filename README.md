@@ -22,7 +22,7 @@ Woke up grabbed a coffee and java killed me.
 
 
 #### Projects I'm working / collaborating on 💻
-  * [Aurora, management systems](https://github.com/zaynekomichi/Aurora) > Management systems for individuals and organizations
+  * [Aurora, management systems](https://aurorasystems.co.zw) > Management systems for individuals and organizations
   * [Threely](https://threely.io) >
    Change your crypto address to an easy to remember one **aasa7ghadF34agFY to pay.to.zayne**  
   * [TMAC](https://tipmeacoffee.com) >
