@@ -22,7 +22,9 @@ Woke up grabbed a coffee and java killed me.
 
 
 #### Projects I'm working / collaborating on 💻
-  * [Aurora, management systems](https://aurorasystems.co.zw/roadmap) >SaaS Management systems for individuals and organizations
+  * [Seed2Fund](https://github.com/Seed2Fund) Financial analytic tools 
+  * [StartUp](https://startup.co.zw) Connecting investors with startups
+  * [Aurora](https://aurorasystems.co.zw/roadmap) >SaaS Management systems for individuals and organizations
   * [Threely](https://threely.io) >
    Change your crypto address to an easy to remember one **aasa7ghadF34agFY to pay.to.zayne**
   * [Code for charity Youtube extension](https://github.com/code-charity/youtube)  >Customize youtube
