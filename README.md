@@ -12,7 +12,7 @@ Any stack you use i can also but here's a few im quite proficient in
 * Typescript/Javascript 🌞
 * Tauri / Electron 💻
 * Python 🐍
-* React 🧬
+* React / NextJs 🧬
 * Ionic 🌌
 * Php 🌐
 
